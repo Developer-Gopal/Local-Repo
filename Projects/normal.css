@@ -1,0 +1,13 @@
+.bg-container {
+  background-image: url("https://ik.imagekit.io/joyl13qcj/MERN-Fullstack/Tourism-Project/sea-sandy-beach-seascape-vertical-view-wallpaper-mobile-devices_483040-75.avif");
+  background-size: cover;
+  width: 400px;
+  height: 800px;
+}
+
+.bg-container-places {
+  background-image: url("https://ik.imagekit.io/joyl13qcj/MERN-Fullstack/Tourism-Project/Page%201%20background?updatedAt=1729067103020");
+  height: 800px;
+  width: 400px;
+  background-size: contain;
+}
